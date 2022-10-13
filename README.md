@@ -1,1 +1,1 @@
-# bioinformatics-GNNs_and_ICUs
+# Graph ML and GNNs
